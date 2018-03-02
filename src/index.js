@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyC_52ynHVff2R_a_rK2YKIARQDWYbnDquA';
+const API_KEY = 'Your Api key for you tube';
 
 class App extends Component {
   constructor(props) {
